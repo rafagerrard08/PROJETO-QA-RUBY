@@ -1,2 +1,2 @@
-# exercise-RUBY
-treinamento-RUBY
+# exercises-RUBY
+treinamento QA Kairos-RUBY
