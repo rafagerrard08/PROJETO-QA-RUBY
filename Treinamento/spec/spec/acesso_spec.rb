@@ -1,8 +1,0 @@
-describe 'Meu primeiro script' do
-  it 'Visitar a página' do
-    visit 'https://www.dimepkairos.com.br/'
-    expect(page.title).to eql "acesso"
-    puts page.title
-    sleep 3
-  end
-end
