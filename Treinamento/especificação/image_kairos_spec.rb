@@ -10,8 +10,7 @@ describe 'Acessar o site Kairos', :entrarSite do # tag:dropdown
     sleep 3
   end
 
-  it 'upload de imagem', :teste do   #imcompleto
-
+  it 'upload de imagem', :teste do  #incompleto
     drop = find("input[type=button][value='Alterar']", match: :first)
     drop.click
 
