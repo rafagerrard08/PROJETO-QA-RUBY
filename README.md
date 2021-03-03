@@ -1,2 +1,2 @@
-# exercises-RUBY
-treinamento QA Kairos-RUBY
+Projeto teste de automação com a  linguagem RUBY
+treinamento QA Kairos
