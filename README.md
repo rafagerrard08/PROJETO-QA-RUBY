@@ -1,2 +1,1 @@
-Projeto teste de automação com a  linguagem RUBY
-treinamento QA Kairos
+Treinamento QA Kairos
