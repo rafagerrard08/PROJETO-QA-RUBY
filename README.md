@@ -1,1 +1,1 @@
-Treinamento QA Kairos
+Treinamento QA Ninja
