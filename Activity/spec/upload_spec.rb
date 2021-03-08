@@ -17,12 +17,14 @@ it 'upload de imagem', :upload_imagem do
     attach_file('file-upload', @imagem)
     click_button 'Upload'
 
+    puts Capybara.default_max_wait_time
+
 img = find('#new-image')
 expect(img[:src]).to include '/uploads/imagem.jpg'
 end
 
   after(:each) do
-sleep 5
+    sleep 3
   end
 end
 
